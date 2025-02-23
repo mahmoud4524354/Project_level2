@@ -16,7 +16,8 @@ class UserSeeder extends Seeder
     {
         User::updateOrCreate(['email' => 'user@user.com'],[
             'name' => 'user',
-            'password' => crypt('123456789','password')
+             'password' => Hash::make('123456789')
+                
         ]);
 
     }
