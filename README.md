@@ -1,3 +1,9 @@
+# Laravel Mini Project (Level 2)
+
+This is a **mini Laravel project** designed to demonstrate how to properly start and organize files in a Laravel-based application. It's useful for beginners who want to learn Laravel structure and workflow.
+
+---
+
 ## Installation
 
 To get started, clone this repository.
